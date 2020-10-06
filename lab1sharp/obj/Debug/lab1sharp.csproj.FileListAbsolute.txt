@@ -1,0 +1,7 @@
+C:\Users\Кирилл\source\repos\lab1sharp\lab1sharp\bin\Debug\lab1sharp.exe.config
+C:\Users\Кирилл\source\repos\lab1sharp\lab1sharp\bin\Debug\lab1sharp.exe
+C:\Users\Кирилл\source\repos\lab1sharp\lab1sharp\bin\Debug\lab1sharp.pdb
+C:\Users\Кирилл\source\repos\lab1sharp\lab1sharp\obj\Debug\lab1sharp.csprojAssemblyReference.cache
+C:\Users\Кирилл\source\repos\lab1sharp\lab1sharp\obj\Debug\lab1sharp.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\lab1sharp\lab1sharp\obj\Debug\lab1sharp.exe
+C:\Users\Кирилл\source\repos\lab1sharp\lab1sharp\obj\Debug\lab1sharp.pdb
