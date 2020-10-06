@@ -1,14 +1,14 @@
 stages:
-- build  
+  - build  
 
 build_job:
-stage: build
-only:
-- branches
-script:
-- 'cd ConsoleApp2'
-- '"C:\Users\Кирилл\source\repos\lab1sharp\nuget.exe" restore'
-- '"D:\vis studio sdk\MSBuild\Current\Bin\MSBuild.exe" lab1sharp.sln'
-artifacts:
-paths:
-- 'lab1sharp\lab1sharp\bin\Debug\lab1sharp.exe'
+  stage: build
+  only:
+    - branches
+  script:
+    - 'cd ConsoleApp2'
+    - '"C:\Users\Кирилл\source\repos\lab1sharp\nuget.exe" restore'
+    - '"D:\vis studio sdk\MSBuild\Current\Bin\MSBuild.exe" lab1sharp.sln'
+  artifacts:
+    paths:
+      - 'lab1sharp\lab1sharp\bin\Debug\lab1sharp.exe'
