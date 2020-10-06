@@ -12,3 +12,4 @@ build_job:
   artifacts:
     paths:
       - 'lab1sharp\lab1sharp\bin\Debug\lab1sharp.exe'
+  #
